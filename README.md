@@ -1,9 +1,9 @@
 # Simplaex-code-challenge
 
-####Install dependencies for server
+###Install dependencies for server
 npm install
 
-####Run the Express server 
+###Run the Express server 
 npm run server or npm run devServer(used nodemon - restarts the server on change for development)
 
 ####Run Test cases
