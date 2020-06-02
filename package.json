@@ -6,7 +6,7 @@
   "scripts": {
     "server": "node server.js",
     "devServer": "nodemon server.js",
-    "test":"jest"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "jest": "^26.0.1",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "xhr-mock": "^2.5.1"
   }
 }
